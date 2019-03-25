@@ -10,7 +10,7 @@
  */
 span.c { 
   font-weight: bold; 
-  color: #2159D6;
+  color: #ff0000;
 }
 
 .transpose-keys {
@@ -32,6 +32,6 @@ span.c {
 	outline: none;
 }
 .transpose-keys a.selected { 
-  background: #2159D6; 
+  background: #387d7f; 
   color: #FFF;
 }
